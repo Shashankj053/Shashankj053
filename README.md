@@ -1,12 +1,12 @@
-<!-- ========================= HERO ========================= -->
+<!-- ================= HERO ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=0:0d1117,50:0a1628,100:0d1117&height=200&section=header&text=SHASHANK%20JAIN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20|%20Cloud%20Automation%20|%20AWS&descAlignY=60&descSize=18&descColor=388bfd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=0:0d1117,50:0a1628,100:0d1117&height=220&section=header&text=SHASHANK%20JAIN&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20|%20AWS%20|%20Cloud%20Automation&descAlignY=60&descSize=18&descColor=388bfd" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=2500\&pause=1200\&color=388BFD\&center=true\&vCenter=true\&width=900\&lines=DevOps+Engineer;AWS+Cloud+Enthusiast;Infrastructure+as+Code;CI%2FCD+Automation;Linux+%7C+Docker+%7C+Jenkins;Always+Learning+and+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3000\&pause=1000\&color=388BFD\&center=true\&vCenter=true\&width=900\&lines=DevOps+Engineer;Cloud+Infrastructure+Automation;AWS+%7C+Docker+%7C+Jenkins;Infrastructure+as+Code;CI%2FCD+Pipeline+Builder;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Shashankj053&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Shashankj053&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -14,9 +14,9 @@
 
 # 👋 Hi, I'm Shashank Jain
 
-🚀 DevOps Engineer passionate about building scalable cloud infrastructure, automating deployments, and improving system reliability.
+🚀 Passionate DevOps Engineer focused on building scalable cloud infrastructure, automating deployments, and improving system reliability.
 
-I enjoy working with AWS, Linux, Docker, CI/CD pipelines, Infrastructure as Code, and monitoring systems. My goal is to build solutions that are automated, repeatable, and production-ready.
+I enjoy working with AWS, Linux, Docker, CI/CD pipelines, Infrastructure as Code, and monitoring solutions. My goal is to design systems that are automated, repeatable, and production-ready.
 
 📍 New Delhi, India
 🎓 BCA – Cloud Technology & Information Security (2026)
@@ -29,7 +29,7 @@ I enjoy working with AWS, Linux, Docker, CI/CD pipelines, Infrastructure as Code
 * ☁️ AWS Cloud Infrastructure
 * 🔄 CI/CD with Jenkins & GitHub Actions
 * 🏗️ Infrastructure as Code (CloudFormation & Terraform)
-* 🐳 Containerization with Docker
+* 🐳 Docker & Containerized Applications
 * 📊 Monitoring with Prometheus & Grafana
 * 🐧 Linux Administration & Automation
 * ☸️ Learning Kubernetes
@@ -38,31 +38,35 @@ I enjoy working with AWS, Linux, Docker, CI/CD pipelines, Infrastructure as Code
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,linux,bash,git,githubactions" />
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 
-### 📊 Monitoring & Observability
+### DevOps & Automation
 
-<p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,python" />
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+
+### Monitoring & Programming
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ---
 
 ## 🏆 Key Highlights
 
-✅ Built a CI/CD pipeline reducing deployment time from **30 minutes to 3 minutes**
-
-✅ Automated AWS infrastructure provisioning using **CloudFormation**
-
-✅ Developed a Dockerized Linux monitoring system with real-time Telegram alerts
-
-✅ Deployed scalable multi-container applications using Docker Swarm
-
-✅ Hands-on experience with cloud deployments, Linux administration, and automation
+* 🚀 Reduced deployment time from **30 minutes to 3 minutes** using Jenkins CI/CD
+* ☁️ Automated AWS infrastructure provisioning using CloudFormation
+* 🐳 Built containerized monitoring systems using Docker
+* 📊 Implemented real-time monitoring and alerting solutions
+* 🏗️ Created scalable cloud infrastructure using Infrastructure as Code
 
 ---
 
@@ -72,24 +76,12 @@ I enjoy working with AWS, Linux, Docker, CI/CD pipelines, Infrastructure as Code
 
 **Jenkins • Docker • AWS EC2 • Linux**
 
-* Automated build, test, and deployment workflow
-* Docker image creation and publishing
+* Automated build, test, and deployment workflows
+* Docker image publishing
 * SSH deployment to AWS EC2
 * Reduced deployment time by 90%
 
-🔗 Repository:
-https://github.com/Shashankj053/pet-clinic-app
-
----
-
-### 🔹 Production WordPress Infrastructure (IaC)
-
-**CloudFormation • AWS • EC2 • VPC • IAM**
-
-* Infrastructure as Code using AWS CloudFormation
-* Automated provisioning of cloud resources
-* Secure and repeatable deployments
-* Version-controlled infrastructure
+🔗 https://github.com/Shashankj053/pet-clinic-app
 
 ---
 
@@ -98,12 +90,22 @@ https://github.com/Shashankj053/pet-clinic-app
 **Bash • Docker • GitHub Actions**
 
 * Real-time CPU, memory, and disk monitoring
-* Telegram alerting integration
+* Telegram-based alerting
 * Dockerized deployment
 * Automated monitoring workflows
 
-🔗 Repository:
-https://github.com/Shashankj053/Linux-system-monitor
+🔗 https://github.com/Shashankj053/Linux-system-monitor
+
+---
+
+### 🔹 Production WordPress Infrastructure (IaC)
+
+**CloudFormation • AWS • EC2 • IAM • VPC**
+
+* Infrastructure as Code using AWS CloudFormation
+* Automated provisioning of resources
+* Secure and repeatable deployments
+* Version-controlled infrastructure
 
 ---
 
@@ -124,23 +126,15 @@ https://github.com/Shashankj053/Linux-system-monitor
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shashankj053&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=Shashankj053&theme=github-dark-blue&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashankj053&theme=github-dark&hide_border=true"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankj053&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-## 🏅 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shashankj053&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -156,17 +150,7 @@ https://github.com/Shashankj053/Linux-system-monitor
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Shashankj053/Shashankj053/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
----
-
-## 📚 Certifications
+## 📋 Certifications
 
 | Certification                        | Provider      |
 | ------------------------------------ | ------------- |
@@ -181,19 +165,9 @@ https://github.com/Shashankj053/Linux-system-monitor
 
 ---
 
-## 💭 DevOps Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
-
-</div>
-
----
-
 ## 🤝 Open to Opportunities
 
-I'm actively looking for opportunities in:
+I'm actively seeking opportunities in:
 
 * DevOps Engineering
 * Cloud Engineering
@@ -231,5 +205,7 @@ Let's connect if you're hiring, collaborating on cloud projects, or discussing D
 </div>
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a1628&height=120&section=footer"/>
+
 </div>
