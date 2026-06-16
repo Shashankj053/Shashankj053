@@ -1,23 +1,12 @@
-<!-- HERO BANNER -->
+<!-- ========================= HERO ========================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:0d1117&height=180&section=header&text=SHASHANK%20JAIN&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20AWS%20%7C%20Automation%20%7C%20Cloud&descAlignY=62&descSize=18&descColor=388bfd" width="100%"/>
-</div>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=0:0d1117,50:0a1628,100:0d1117&height=200&section=header&text=SHASHANK%20JAIN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20|%20Cloud%20Automation%20|%20AWS&descAlignY=60&descSize=18&descColor=388bfd" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=2500\&pause=1200\&color=388BFD\&center=true\&vCenter=true\&width=900\&lines=DevOps+Engineer;AWS+Cloud+Enthusiast;Infrastructure+as+Code;CI%2FCD+Automation;Linux+%7C+Docker+%7C+Jenkins;Always+Learning+and+Building)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Shashankj053&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-
-<br/>
-
-### Building Automated Cloud Infrastructure & CI/CD Pipelines
 
 </div>
 
@@ -25,58 +14,47 @@
 
 # 👋 Hi, I'm Shashank Jain
 
-I'm a DevOps Engineer passionate about automating infrastructure, building CI/CD pipelines, and deploying scalable cloud-native applications.
+🚀 DevOps Engineer passionate about building scalable cloud infrastructure, automating deployments, and improving system reliability.
 
-Currently pursuing a **BCA in Cloud Technology & Information Security**, I enjoy solving operational challenges through Infrastructure as Code, containerization, monitoring, and automation.
+I enjoy working with AWS, Linux, Docker, CI/CD pipelines, Infrastructure as Code, and monitoring systems. My goal is to build solutions that are automated, repeatable, and production-ready.
 
 📍 New Delhi, India
 🎓 BCA – Cloud Technology & Information Security (2026)
-🚀 Open to DevOps, Cloud Engineering, and Site Reliability opportunities
+💼 Open to DevOps, Cloud Engineering & SRE Opportunities
 
 ---
 
 ## 🎯 Current Focus
 
-* ☁️ AWS Cloud & Infrastructure Automation
-* 🔄 CI/CD Pipelines with Jenkins & GitHub Actions
-* 🐳 Docker & Containerized Deployments
+* ☁️ AWS Cloud Infrastructure
+* 🔄 CI/CD with Jenkins & GitHub Actions
 * 🏗️ Infrastructure as Code (CloudFormation & Terraform)
+* 🐳 Containerization with Docker
 * 📊 Monitoring with Prometheus & Grafana
-* 🐧 Linux System Administration & Automation
+* 🐧 Linux Administration & Automation
+* ☸️ Learning Kubernetes
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=FF9900)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge\&logo=amazon-ec2\&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge\&logo=amazon-s3\&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,linux,bash,git,githubactions" />
+</p>
 
-### DevOps & Automation
+### 📊 Monitoring & Observability
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-### Monitoring & Programming
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,python" />
+</p>
 
 ---
 
-## 🏆 Highlights
+## 🏆 Key Highlights
 
-✅ Built a CI/CD pipeline that reduced deployment time from **30 minutes to 3 minutes**
+✅ Built a CI/CD pipeline reducing deployment time from **30 minutes to 3 minutes**
 
 ✅ Automated AWS infrastructure provisioning using **CloudFormation**
 
@@ -84,7 +62,7 @@ Currently pursuing a **BCA in Cloud Technology & Information Security**, I enjoy
 
 ✅ Deployed scalable multi-container applications using Docker Swarm
 
-✅ Hands-on experience with Linux administration, automation, and cloud deployments
+✅ Hands-on experience with cloud deployments, Linux administration, and automation
 
 ---
 
@@ -94,12 +72,13 @@ Currently pursuing a **BCA in Cloud Technology & Information Security**, I enjoy
 
 **Jenkins • Docker • AWS EC2 • Linux**
 
-* Automated build, test, and deployment workflows
+* Automated build, test, and deployment workflow
 * Docker image creation and publishing
-* SSH-based deployment to AWS EC2
+* SSH deployment to AWS EC2
 * Reduced deployment time by 90%
 
-🔗 Repository: https://github.com/Shashankj053/pet-clinic-app
+🔗 Repository:
+https://github.com/Shashankj053/pet-clinic-app
 
 ---
 
@@ -108,8 +87,8 @@ Currently pursuing a **BCA in Cloud Technology & Information Security**, I enjoy
 **CloudFormation • AWS • EC2 • VPC • IAM**
 
 * Infrastructure as Code using AWS CloudFormation
-* Secure and repeatable deployments
 * Automated provisioning of cloud resources
+* Secure and repeatable deployments
 * Version-controlled infrastructure
 
 ---
@@ -118,20 +97,21 @@ Currently pursuing a **BCA in Cloud Technology & Information Security**, I enjoy
 
 **Bash • Docker • GitHub Actions**
 
-* Real-time monitoring of CPU, memory, and disk usage
-* Telegram-based alerting system
+* Real-time CPU, memory, and disk monitoring
+* Telegram alerting integration
 * Dockerized deployment
 * Automated monitoring workflows
 
-🔗 Repository: https://github.com/Shashankj053/Linux-system-monitor
+🔗 Repository:
+https://github.com/Shashankj053/Linux-system-monitor
 
 ---
 
-## 🎯 2026 Learning Roadmap
+## 🎯 2026 Roadmap
 
 * [ ] AWS Cloud Practitioner
 * [ ] AWS Solutions Architect Associate
-* [ ] Kubernetes (CKA Path)
+* [ ] Kubernetes Fundamentals
 * [ ] GitOps with ArgoCD
 * [ ] Production Monitoring Stack
 * [ ] Advanced Terraform Projects
@@ -156,6 +136,16 @@ Currently pursuing a **BCA in Cloud Technology & Information Security**, I enjoy
 
 ---
 
+## 🏅 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shashankj053&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -166,7 +156,17 @@ Currently pursuing a **BCA in Cloud Technology & Information Security**, I enjoy
 
 ---
 
-## 🏅 Certifications
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Shashankj053/Shashankj053/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+## 📚 Certifications
 
 | Certification                        | Provider      |
 | ------------------------------------ | ------------- |
@@ -181,16 +181,26 @@ Currently pursuing a **BCA in Cloud Technology & Information Security**, I enjoy
 
 ---
 
+## 💭 DevOps Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
+
+</div>
+
+---
+
 ## 🤝 Open to Opportunities
 
-I'm actively seeking opportunities in:
+I'm actively looking for opportunities in:
 
 * DevOps Engineering
 * Cloud Engineering
 * Site Reliability Engineering (SRE)
 * Infrastructure Automation
 
-If you're hiring or interested in collaborating on cloud and automation projects, let's connect.
+Let's connect if you're hiring, collaborating on cloud projects, or discussing DevOps and automation.
 
 ---
 
@@ -207,11 +217,19 @@ If you're hiring or interested in collaborating on cloud and automation projects
 </a>
 
 <a href="mailto:shashankjain053098@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a1628&height=100&section=footer" width="100%"/>
+
+### ⭐ If you like my work, feel free to star my repositories!
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a1628&height=120&section=footer"/>
 </div>
