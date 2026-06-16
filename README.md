@@ -1,84 +1,135 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=160&text=Shashank%20Jain&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=DevOps%20%26%20Cloud%20Engineer%20%E2%80%94%20AWS%20%C2%B7%20Docker%20%C2%B7%20Jenkins%20%C2%B7%20Linux&descSize=15&descColor=8b949e&descAlignY=68" width="100%"/>
+# Shashank Jain
 
-</div>
+### DevOps & Cloud Engineer
 
-<br/>
+AWS • Docker • Jenkins • Linux • CloudFormation
 
-**DevOps & Cloud Engineer** based in New Delhi, India. I build and automate reliable infrastructure — CI/CD pipelines, containerized deployments, and cloud environments provisioned as code. Currently finishing a BCA in Cloud Technology & Information Security (2026) and open to internship and full-time roles.
+Building reliable infrastructure, automating deployments, and simplifying operations.
 
----
-
-### Skills
-
-**Cloud**&ensp;
-AWS (EC2 · S3 · IAM · Lambda · CloudFormation) · GCP (VPC · NAT · Firewall)
-
-**DevOps & Containers**&ensp;
-Jenkins · Docker · Docker Swarm · Docker Compose · GitHub Actions
-
-**Infrastructure as Code**&ensp;
-AWS CloudFormation · YAML
-
-**Monitoring**&ensp;
-CloudWatch
-
-**Systems**&ensp;
-Linux · Bash · Git · SSH · VPC Networking
-
----
-
-### Projects
-
-**[CI/CD Deployment Pipeline — Pet Clinic App](https://github.com/Shashankj053/pet-clinic-app)**
-`Jenkins` `Docker` `AWS EC2` `GitHub` `Linux`
-
-End-to-end pipeline that builds, tests, containerizes, and deploys a Spring Boot application to AWS EC2 via SSH. Reduced deployment time from 30 minutes to 3 minutes through full automation.
-
----
-
-**[Linux System Monitor with Telegram Alerts](https://github.com/Shashankj053/Linux-system-monitor)**
-`Bash` `Docker` `Linux` `GitHub Actions` `Telegram Bot API`
-
-Dockerized monitoring agent that tracks CPU, memory, and disk usage and sends real-time Telegram alerts when thresholds are breached. CI pipeline via GitHub Actions.
-
----
-
-**[Docker Swarm Multi-Container Application](https://github.com/Shashankj053)**
-`Docker Swarm` `Docker Compose` `Redis` `PostgreSQL` `Linux`
-
-Multi-service application deployed on Docker Swarm with Redis and PostgreSQL. Demonstrates service orchestration, inter-container networking, scaling, and real-time monitoring via Docker Visualizer.
-
----
-
-**[Production WordPress Infrastructure — IaC](https://github.com/Shashankj053)**
-`AWS CloudFormation` `EC2` `VPC` `IAM` `YAML`
-
-Production-grade WordPress environment on AWS, fully provisioned through CloudFormation templates. Single-command deployment with IAM roles, VPC isolation, and version-controlled infrastructure.
-
----
-
-### Certifications
-
-Docker for the Absolute Beginner · Jenkins for Beginners · Terraform Basics · Fundamentals of DevOps · Learning Linux — **KodeKloud, 2025**
-
-Introduction to Cloud Computing · Introduction to IoT *(Elite, IIT Kharagpur)* — **NPTEL, 2025**
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Shashankj053&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=3fb950&text_color=8b949e&hide=prs"/>
-&nbsp;
-<img height="160" src="https://streak-stats.demolab.com?user=Shashankj053&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21262d&ring=3fb950&fire=3fb950&currStreakLabel=ffffff"/>
+[LinkedIn](https://linkedin.com/in/shashank-jain-8a091b316) • [GitHub](https://github.com/Shashankj053) • [shashankjain053098@gmail.com](mailto:shashankjain053098@gmail.com)
 
 </div>
 
 ---
 
-### Contact
+## About Me
 
-[LinkedIn](https://linkedin.com/in/shashank-jain-8a091b316) &ensp;·&ensp; [GitHub](https://github.com/Shashankj053) &ensp;·&ensp; [shashankjain053098@gmail.com](mailto:shashankjain053098@gmail.com)
+I'm a DevOps & Cloud Engineer based in New Delhi, India.
+
+I enjoy building automated deployment pipelines, provisioning cloud infrastructure using Infrastructure as Code, and working with Linux-based systems.
+
+Currently pursuing a BCA in Cloud Technology & Information Security (2026).
+
+---
+
+## Tech Stack
+
+### Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square\&logo=amazonaws\&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square\&logo=jenkins\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+
+### Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnubash\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🚀 Pet Clinic CI/CD Pipeline
+
+Automated build, containerization, and deployment pipeline using Jenkins, Docker, and AWS EC2.
+
+**Highlights**
+
+* Reduced deployment time from 30 minutes to 3 minutes
+* Automated Docker image publishing
+* Automated EC2 deployment using SSH
+
+**Tech:** Jenkins • Docker • AWS EC2 • GitHub • Linux
+
+---
+
+### 🐳 Docker Swarm Multi-Container Application
+
+Deployed a scalable multi-service application using Docker Swarm, Redis, and PostgreSQL.
+
+**Highlights**
+
+* Service orchestration with Docker Swarm
+* Redis and PostgreSQL integration
+* Container networking and scaling
+* Stack deployment using docker-stack.yml
+
+**Tech:** Docker • Docker Swarm • Docker Compose • Redis • PostgreSQL • Linux
+
+---
+
+### 📊 Linux System Monitor with Telegram Alerts
+
+Dockerized monitoring solution that tracks CPU, memory, and disk usage and sends Telegram alerts.
+
+**Highlights**
+
+* Real-time resource monitoring
+* Automated Telegram notifications
+* GitHub Actions CI workflow
+
+**Tech:** Bash • Docker • Linux • GitHub Actions
+
+---
+
+### ☁️ Production WordPress Infrastructure
+
+Provisioned a production-ready WordPress environment entirely through CloudFormation templates.
+
+**Highlights**
+
+* Infrastructure as Code
+* VPC and IAM configuration
+* Repeatable deployments
+* Version-controlled infrastructure
+
+**Tech:** AWS CloudFormation • EC2 • VPC • IAM • YAML
+
+---
+
+## Certifications
+
+* Docker for the Absolute Beginner — KodeKloud
+* Jenkins for Beginners — KodeKloud
+* Terraform Basics — KodeKloud
+* Fundamentals of DevOps — KodeKloud
+* Learning Linux — KodeKloud
+* Introduction to Cloud Computing — NPTEL
+* Introduction to IoT (Elite) — IIT Kharagpur / NPTEL
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shashankj053&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankj053&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## Connect
+
+* LinkedIn: https://linkedin.com/in/shashank-jain-8a091b316
+* GitHub: https://github.com/Shashankj053
+* Email: [shashankjain053098@gmail.com](mailto:shashankjain053098@gmail.com)
